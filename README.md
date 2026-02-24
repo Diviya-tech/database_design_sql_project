@@ -103,12 +103,14 @@ These scripts collectively simulate a production-ready database environment.
 📂 Project Structure
 database-design-sql-project/
 │
+
 ├── docs/
 │   ├── Final Problem Description
 │   ├── ER Diagram
 │   ├── Functional Dependencies
 │   └── Relational Schema
 │
+
 ├── sql/
 │   ├── create.sql
 │   ├── insert.sql
@@ -116,8 +118,11 @@ database-design-sql-project/
 │   ├── drop.sql
 │   └── business_queries.sql
 │
+
 ├── README.md
+
 └── .gitignore
+
 ⚙️ How to Run
 
 Execute drop.sql (optional reset)
