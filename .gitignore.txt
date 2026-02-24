@@ -1,0 +1,8 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# temp/backup files
+*.tmp
+*.bak
+~$*.docx
